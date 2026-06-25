@@ -1,0 +1,656 @@
+Arabic Name,English Name,Correspondent Gregorian Month,First Day After Full moon
+2022:
+محرم,Muharram,January,19
+صفر,Saffar,February,17
+ربيع أول,Rabe' Awal,March,19
+ربيع ثاني,Rabe' Thani,April,17
+جمادى أول,Jumada Awal,May,17
+جمادى ثاني,Jumada Thani,June,16
+رجب,Rajab,July,14
+شعبان,Shaban,August,13
+رمضان,Ramadan,September,11
+شوال,Shawal,October,10
+ذو القعدة,Zul Qe'da,November,9
+ذو الحجة,Zul Hijja,December,9
+2023:
+محرم,Muharram,January,8
+صفر,Saffar,February,6
+ربيع أول,Rabe' Awal,March,8
+ربيع ثاني,Rabe' Thani,April,7
+جمادى أول,Jumada Awal,May,6
+جمادى ثاني,Jumada Thani,June,5
+رجب,Rajab,July,4
+شعبان,Shaban,August,2
+الشهر الحرام,Alshahr Alharam,September,1
+رمضان,Ramadan,September,30
+شوال,Shawal,October,29
+ذو القعدة,Zul Qe'da,November,28
+ذو الحجة,Zul Hijja,December,28
+2024:
+محرم,Muharram,January,26
+صفر,Saffar,February,25
+ربيع أول,Rabe' Awal,March,26
+ربيع ثاني,Rabe' Thani,April,25
+جمادى أول,Jumada Awal,May,24
+جمادى ثاني,Jumada Thani,June,23
+رجب,Rajab,July,22
+شعبان,Shaban,August,20
+رمضان,Ramadan,September,19
+شوال,Shawal,October,18
+ذو القعدة,Zul Qe'da,November,17
+ذو الحجة,Zul Hijja,December,16
+2025:
+محرم,Muharram,January,15
+صفر,Saffar,February,13
+ربيع أول,Rabe' Awal,March,15
+ربيع ثاني,Rabe' Thani,April,14
+جمادى أول,Jumada Awal,May,13
+جمادى ثاني,Jumada Thani,June,12
+رجب,Rajab,July,11
+شعبان,Shaban,August,10
+رمضان,Ramadan,September,8
+شوال,Shawal,October,8
+ذو القعدة,Zul Qe'da,November,6
+ذو الحجة,Zul Hijja,December,6
+2026:
+محرم,Muharram,January,4
+صفر,Saffar,February,3
+ربيع أول,Rabe' Awal,March,4
+ربيع ثاني,Rabe' Thani,April,3
+الشهر الحرام,Alshahr Alharam,May,2
+جمادى أول,Jumada Awal,June,1
+جمادى ثاني,Jumada Thani,July,1
+رجب,Rajab,July,30
+شعبان,Shaban,August,29
+رمضان,Ramadan,September,27
+شوال,Shawal,October,27
+ذو القعدة,Zul Qe'da,November,25
+ذو الحجة,Zul Hijja,December,25
+2027:
+محرم,Muharram,January,23
+صفر,Saffar,February,22
+ربيع أول,Rabe' Awal,March,23
+ربيع ثاني,Rabe' Thani,April,22
+جمادى أول,Jumada Awal,May,21
+جمادى ثاني,Jumada Thani,June,20
+رجب,Rajab,July,19
+شعبان,Shaban,August,18
+رمضان,Ramadan,September,17
+شوال,Shawal,October,16
+ذو القعدة,Zul Qe'da,November,15
+ذو الحجة,Zul Hijja,December,14
+2028:
+محرم,Muharram,January,13
+صفر,Saffar,February,11
+ربيع أول,Rabe' Awal,March,12
+ربيع ثاني,Rabe' Thani,April,10
+جمادى أول,Jumada Awal,May,9
+جمادى ثاني,Jumada Thani,June,8
+رجب,Rajab,July,7
+شعبان,Shaban,August,6
+رمضان,Ramadan,September,5
+شوال,Shawal,October,4
+ذو القعدة,Zul Qe'da,November,3
+ذو الحجة,Zul Hijja,December,3
+2029:
+الشهر الحرام,Alshahr Alharam,January,1
+محرم,Muharram,January,31
+صفر,Saffar,March,1
+ربيع أول,Rabe' Awal,March,31
+ربيع ثاني,Rabe' Thani,April,29
+جمادى أول,Jumada Awal,May,28
+جمادى ثاني,Jumada Thani,June,27
+رجب,Rajab,July,26
+شعبان,Shaban,August,25
+رمضان,Ramadan,September,23
+شوال,Shawal,October,23
+ذو القعدة,Zul Qe'da,November,22
+ذو الحجة,Zul Hijja,December,22
+2030:
+محرم,Muharram,January,20
+صفر,Saffar,February,19
+ربيع أول,Rabe' Awal,March,20
+ربيع ثاني,Rabe' Thani,April,19
+جمادى أول,Jumada Awal,May,18
+جمادى ثاني,Jumada Thani,June,16
+رجب,Rajab,July,16
+شعبان,Shaban,August,14
+رمضان,Ramadan,September,13
+شوال,Shawal,October,12
+ذو القعدة,Zul Qe'da,November,11
+ذو الحجة,Zul Hijja,December,11
+2031:
+محرم,Muharram,January,9
+صفر,Saffar,February,8
+ربيع أول,Rabe' Awal,March,10
+ربيع ثاني,Rabe' Thani,April,8
+جمادى أول,Jumada Awal,May,8
+جمادى ثاني,Jumada Thani,June,6
+رجب,Rajab,July,5
+شعبان,Shaban,August,4
+رمضان,Ramadan,September,2
+شوال,Shawal,October,1
+ذو القعدة,Zul Qe'da,October,31
+ذو الحجة,Zul Hijja,November,30
+الشهر الحرام,Alshahr Alharam,December,29
+2032:
+محرم,Muharram,January,28
+صفر,Saffar,February,27
+ربيع أول,Rabe' Awal,March,28
+ربيع ثاني,Rabe' Thani,April,26
+جمادى أول,Jumada Awal,May,26
+جمادى ثاني,Jumada Thani,June,24
+رجب,Rajab,July,23
+شعبان,Shaban,August,22
+رمضان,Ramadan,September,20
+شوال,Shawal,October,19
+ذو القعدة,Zul Qe'da,November,18
+ذو الحجة,Zul Hijja,December,17
+2033:
+محرم,Muharram,January,16
+صفر,Saffar,February,15
+ربيع أول,Rabe' Awal,March,17
+ربيع ثاني,Rabe' Thani,April,15
+جمادى أول,Jumada Awal,May,15
+جمادى ثاني,Jumada Thani,June,14
+رجب,Rajab,July,13
+شعبان,Shaban,August,11
+رمضان,Ramadan,September,10
+شوال,Shawal,October,9
+ذو القعدة,Zul Qe'da,November,7
+ذو الحجة,Zul Hijja,December,7
+2034:
+محرم,Muharram,January,5
+صفر,Saffar,February,4
+ربيع أول,Rabe' Awal,March,6
+ربيع ثاني,Rabe' Thani,April,4
+جمادى أول,Jumada Awal,May,4
+جمادى ثاني,Jumada Thani,June,3
+رجب,Rajab,July,2
+شعبان,Shaban,August,1
+الشهر الحرام,Alshahr Alharam,August,30
+رمضان,Ramadan,September,29
+شوال,Shawal,October,28
+ذو القعدة,Zul Qe'da,November,27
+ذو الحجة,Zul Hijja,December,26
+2035:
+محرم,Muharram,January,24
+صفر,Saffar,February,23
+ربيع أول,Rabe' Awal,March,25
+ربيع ثاني,Rabe' Thani,April,23
+جمادى أول,Jumada Awal,May,23
+جمادى ثاني,Jumada Thani,June,21
+رجب,Rajab,July,21
+شعبان,Shaban,August,20
+رمضان,Ramadan,September,18
+شوال,Shawal,October,18
+ذو القعدة,Zul Qe'da,November,16
+ذو الحجة,Zul Hijja,December,16
+2036:
+محرم,Muharram,January,14
+صفر,Saffar,February,13
+ربيع أول,Rabe' Awal,March,13
+ربيع ثاني,Rabe' Thani,April,11
+جمادى أول,Jumada Awal,May,11
+جمادى ثاني,Jumada Thani,June,10
+رجب,Rajab,July,9
+شعبان,Shaban,August,8
+رمضان,Ramadan,September,6
+شوال,Shawal,October,6
+ذو القعدة,Zul Qe'da,November,5
+ذو الحجة,Zul Hijja,December,4
+2037:
+محرم,Muharram,January,3
+صفر,Saffar,February,1
+ربيع أول,Rabe' Awal,March,3
+ربيع ثاني,Rabe' Thani,April,1
+الشهر الحرام,Alshahr Alharam,April,30
+جمادى أول,Jumada Awal,May,30
+جمادى ثاني,Jumada Thani,June,28
+رجب,Rajab,July,28
+شعبان,Shaban,August,26
+رمضان,Ramadan,September,25
+شوال,Shawal,October,25
+ذو القعدة,Zul Qe'da,November,24
+ذو الحجة,Zul Hijja,December,23
+2038:
+محرم,Muharram,January,22
+صفر,Saffar,February,20
+ربيع أول,Rabe' Awal,March,22
+ربيع ثاني,Rabe' Thani,April,20
+جمادى أول,Jumada Awal,May,19
+جمادى ثاني,Jumada Thani,June,18
+رجب,Rajab,July,17
+شعبان,Shaban,August,16
+رمضان,Ramadan,September,14
+شوال,Shawal,October,14
+ذو القعدة,Zul Qe'da,November,13
+ذو الحجة,Zul Hijja,December,12
+2039:
+محرم,Muharram,January,11
+صفر,Saffar,February,10
+ربيع أول,Rabe' Awal,March,11
+ربيع ثاني,Rabe' Thani,April,10
+جمادى أول,Jumada Awal,May,9
+جمادى ثاني,Jumada Thani,June,7
+رجب,Rajab,July,7
+شعبان,Shaban,August,5
+رمضان,Ramadan,September,3
+شوال,Shawal,October,3
+ذو القعدة,Zul Qe'da,November,2
+ذو الحجة,Zul Hijja,December,1
+الشهر الحرام,Alshahr Alharam,December,31
+2040:
+محرم,Muharram,January,30
+صفر,Saffar,February,29
+ربيع أول,Rabe' Awal,March,29
+ربيع ثاني,Rabe' Thani,April,28
+جمادى أول,Jumada Awal,May,27
+جمادى ثاني,Jumada Thani,June,25
+رجب,Rajab,July,25
+شعبان,Shaban,August,23
+رمضان,Ramadan,September,21
+شوال,Shawal,October,21
+ذو القعدة,Zul Qe'da,November,19
+ذو الحجة,Zul Hijja,December,19
+2041:
+محرم,Muharram,January,18
+صفر,Saffar,February,17
+ربيع أول,Rabe' Awal,March,18
+ربيع ثاني,Rabe' Thani,April,17
+جمادى أول,Jumada Awal,May,17
+جمادى ثاني,Jumada Thani,June,15
+رجب,Rajab,July,14
+شعبان,Shaban,August,13
+رمضان,Ramadan,September,11
+شوال,Shawal,October,10
+ذو القعدة,Zul Qe'da,November,9
+ذو الحجة,Zul Hijja,December,8
+2042:
+محرم,Muharram,January,7
+صفر,Saffar,February,6
+ربيع أول,Rabe' Awal,March,7
+ربيع ثاني,Rabe' Thani,April,6
+جمادى أول,Jumada Awal,May,6
+جمادى ثاني,Jumada Thani,June,4
+رجب,Rajab,July,4
+شعبان,Shaban,August,2
+الشهر الحرام,Alshahr Alharam,September,1
+رمضان,Ramadan,September,30
+شوال,Shawal,October,29
+ذو القعدة,Zul Qe'da,November,28
+ذو الحجة,Zul Hijja,December,27
+2043:
+محرم,Muharram,January,26
+صفر,Saffar,February,25
+ربيع أول,Rabe' Awal,March,26
+ربيع ثاني,Rabe' Thani,April,25
+جمادى أول,Jumada Awal,May,25
+جمادى ثاني,Jumada Thani,June,23
+رجب,Rajab,July,23
+شعبان,Shaban,August,21
+رمضان,Ramadan,September,20
+شوال,Shawal,October,19
+ذو القعدة,Zul Qe'da,November,18
+ذو الحجة,Zul Hijja,December,17
+2044:
+محرم,Muharram,January,15
+صفر,Saffar,February,14
+ربيع أول,Rabe' Awal,March,14
+ربيع ثاني,Rabe' Thani,April,13
+جمادى أول,Jumada Awal,May,13
+جمادى ثاني,Jumada Thani,June,11
+رجب,Rajab,July,11
+شعبان,Shaban,August,10
+رمضان,Ramadan,September,8
+شوال,Shawal,October,8
+ذو القعدة,Zul Qe'da,November,6
+ذو الحجة,Zul Hijja,December,6
+2045:
+محرم,Muharram,January,4
+صفر,Saffar,February,3
+ربيع أول,Rabe' Awal,March,4
+ربيع ثاني,Rabe' Thani,April,2
+الشهر الحرام,Alshahr Alharam,May,2
+جمادى أول,Jumada Awal,May,31
+جمادى ثاني,Jumada Thani,June,30
+رجب,Rajab,July,30
+شعبان,Shaban,August,28
+رمضان,Ramadan,September,27
+شوال,Shawal,October,27
+ذو القعدة,Zul Qe'da,November,25
+ذو الحجة,Zul Hijja,December,25
+2046:
+محرم,Muharram,January,23
+صفر,Saffar,February,22
+ربيع أول,Rabe' Awal,March,23
+ربيع ثاني,Rabe' Thani,April,21
+جمادى أول,Jumada Awal,May,21
+جمادى ثاني,Jumada Thani,June,19
+رجب,Rajab,July,19
+شعبان,Shaban,August,17
+رمضان,Ramadan,September,16
+شوال,Shawal,October,16
+ذو القعدة,Zul Qe'da,November,14
+ذو الحجة,Zul Hijja,December,14
+2047:
+محرم,Muharram,January,13
+صفر,Saffar,February,11
+ربيع أول,Rabe' Awal,March,13
+ربيع ثاني,Rabe' Thani,April,11
+جمادى أول,Jumada Awal,May,10
+جمادى ثاني,Jumada Thani,June,9
+رجب,Rajab,July,8
+شعبان,Shaban,August,6
+رمضان,Ramadan,September,5
+شوال,Shawal,October,5
+ذو القعدة,Zul Qe'da,November,3
+ذو الحجة,Zul Hijja,December,3
+2048:
+الشهر الحرام,Alshahr Alharam,January,2
+محرم,Muharram,February,1
+صفر,Saffar,March,1
+ربيع أول,Rabe' Awal,March,31
+ربيع ثاني,Rabe' Thani,April,29
+جمادى أول,Jumada Awal,May,28
+جمادى ثاني,Jumada Thani,June,27
+رجب,Rajab,July,26
+شعبان,Shaban,August,24
+رمضان,Ramadan,September,23
+شوال,Shawal,October,22
+ذو القعدة,Zul Qe'da,November,21
+ذو الحجة,Zul Hijja,December,21
+2049:
+محرم,Muharram,January,20
+صفر,Saffar,February,18
+ربيع أول,Rabe' Awal,March,20
+ربيع ثاني,Rabe' Thani,April,19
+جمادى أول,Jumada Awal,May,18
+جمادى ثاني,Jumada Thani,June,16
+رجب,Rajab,July,16
+شعبان,Shaban,August,14
+رمضان,Ramadan,September,12
+شوال,Shawal,October,12
+ذو القعدة,Zul Qe'da,November,10
+ذو الحجة,Zul Hijja,December,10
+2050:
+محرم,Muharram,January,9
+صفر,Saffar,February,7
+ربيع أول,Rabe' Awal,March,9
+ربيع ثاني,Rabe' Thani,April,8
+جمادى أول,Jumada Awal,May,8
+جمادى ثاني,Jumada Thani,June,6
+رجب,Rajab,July,5
+شعبان,Shaban,August,4
+رمضان,Ramadan,September,2
+شوال,Shawal,October,1
+ذو القعدة,Zul Qe'da,October,31
+ذو الحجة,Zul Hijja,November,29
+الشهر الحرام,Alshahr Alharam,December,29
+2051:
+محرم,Muharram,January,28
+صفر,Saffar,February,26
+ربيع أول,Rabe' Awal,March,28
+ربيع ثاني,Rabe' Thani,April,27
+جمادى أول,Jumada Awal,May,26
+جمادى ثاني,Jumada Thani,June,25
+رجب,Rajab,July,24
+شعبان,Shaban,August,23
+رمضان,Ramadan,September,21
+شوال,Shawal,October,20
+ذو القعدة,Zul Qe'da,November,19
+ذو الحجة,Zul Hijja,December,18
+2052:
+محرم,Muharram,January,17
+صفر,Saffar,February,15
+ربيع أول,Rabe' Awal,March,16
+ربيع ثاني,Rabe' Thani,April,15
+جمادى أول,Jumada Awal,May,14
+جمادى ثاني,Jumada Thani,June,13
+رجب,Rajab,July,13
+شعبان,Shaban,August,11
+رمضان,Ramadan,September,10
+شوال,Shawal,October,9
+ذو القعدة,Zul Qe'da,November,8
+ذو الحجة,Zul Hijja,December,7
+2053:
+محرم,Muharram,January,5
+صفر,Saffar,February,4
+ربيع أول,Rabe' Awal,March,5
+ربيع ثاني,Rabe' Thani,April,4
+جمادى أول,Jumada Awal,May,3
+جمادى ثاني,Jumada Thani,June,2
+رجب,Rajab,July,2
+شعبان,Shaban,July,31
+الشهر الحرام,Alshahr Alharam,August,30
+رمضان,Ramadan,September,29
+شوال,Shawal,October,28
+ذو القعدة,Zul Qe'da,November,27
+ذو الحجة,Zul Hijja,December,26
+2054:
+محرم,Muharram,January,24
+صفر,Saffar,February,23
+ربيع أول,Rabe' Awal,March,24
+ربيع ثاني,Rabe' Thani,April,23
+جمادى أول,Jumada Awal,May,22
+جمادى ثاني,Jumada Thani,June,21
+رجب,Rajab,July,20
+شعبان,Shaban,August,19
+رمضان,Ramadan,September,18
+شوال,Shawal,October,17
+ذو القعدة,Zul Qe'da,November,16
+ذو الحجة,Zul Hijja,December,16
+2055:
+محرم,Muharram,January,14
+صفر,Saffar,February,13
+ربيع أول,Rabe' Awal,March,14
+ربيع ثاني,Rabe' Thani,April,12
+جمادى أول,Jumada Awal,May,12
+جمادى ثاني,Jumada Thani,June,10
+رجب,Rajab,July,10
+شعبان,Shaban,August,8
+رمضان,Ramadan,September,7
+شوال,Shawal,October,6
+ذو القعدة,Zul Qe'da,November,5
+ذو الحجة,Zul Hijja,December,5
+2056:
+محرم,Muharram,January,4
+صفر,Saffar,February,2
+ربيع أول,Rabe' Awal,March,3
+ربيع ثاني,Rabe' Thani,April,1
+الشهر الحرام,Alshahr Alharam,April,30
+جمادى أول,Jumada Awal,May,30
+جمادى ثاني,Jumada Thani,June,28
+رجب,Rajab,July,27
+شعبان,Shaban,August,26
+رمضان,Ramadan,September,24
+شوال,Shawal,October,24
+ذو القعدة,Zul Qe'da,November,23
+ذو الحجة,Zul Hijja,December,23
+2057:
+محرم,Muharram,January,21
+صفر,Saffar,February,20
+ربيع أول,Rabe' Awal,March,22
+ربيع ثاني,Rabe' Thani,April,21
+جمادى أول,Jumada Awal,May,19
+جمادى ثاني,Jumada Thani,June,18
+رجب,Rajab,July,17
+شعبان,Shaban,August,15
+رمضان,Ramadan,September,14
+شوال,Shawal,October,13
+ذو القعدة,Zul Qe'da,November,12
+ذو الحجة,Zul Hijja,December,12
+2058:
+محرم,Muharram,January,10
+صفر,Saffar,February,9
+ربيع أول,Rabe' Awal,March,11
+ربيع ثاني,Rabe' Thani,April,10
+جمادى أول,Jumada Awal,May,9
+جمادى ثاني,Jumada Thani,June,7
+رجب,Rajab,July,7
+شعبان,Shaban,August,5
+رمضان,Ramadan,September,3
+شوال,Shawal,October,3
+ذو القعدة,Zul Qe'da,November,1
+ذو الحجة,Zul Hijja,December,1
+الشهر الحرام,Alshahr Alharam,December,30
+2059:
+محرم,Muharram,January,29
+صفر,Saffar,February,28
+ربيع أول,Rabe' Awal,March,30
+ربيع ثاني,Rabe' Thani,April,28
+جمادى أول,Jumada Awal,May,28
+جمادى ثاني,Jumada Thani,June,26
+رجب,Rajab,July,26
+شعبان,Shaban,August,24
+رمضان,Ramadan,September,22
+شوال,Shawal,October,22
+ذو القعدة,Zul Qe'da,November,20
+ذو الحجة,Zul Hijja,December,20
+2060:
+محرم,Muharram,January,18
+صفر,Saffar,February,17
+ربيع أول,Rabe' Awal,March,18
+ربيع ثاني,Rabe' Thani,April,17
+جمادى أول,Jumada Awal,May,16
+جمادى ثاني,Jumada Thani,June,15
+رجب,Rajab,July,14
+شعبان,Shaban,August,13
+رمضان,Ramadan,September,11
+شوال,Shawal,October,10
+ذو القعدة,Zul Qe'da,November,9
+ذو الحجة,Zul Hijja,December,8
+2061:
+محرم,Muharram,January,7
+صفر,Saffar,February,5
+ربيع أول,Rabe' Awal,March,7
+ربيع ثاني,Rabe' Thani,April,6
+جمادى أول,Jumada Awal,May,5
+جمادى ثاني,Jumada Thani,June,4
+رجب,Rajab,July,3
+شعبان,Shaban,August,2
+الشهر الحرام,Alshahr Alharam,September,1
+رمضان,Ramadan,September,30
+شوال,Shawal,October,29
+ذو القعدة,Zul Qe'da,November,28
+ذو الحجة,Zul Hijja,December,27
+2062:
+محرم,Muharram,January,26
+صفر,Saffar,February,24
+ربيع أول,Rabe' Awal,March,26
+ربيع ثاني,Rabe' Thani,April,24
+جمادى أول,Jumada Awal,May,24
+جمادى ثاني,Jumada Thani,June,23
+رجب,Rajab,July,22
+شعبان,Shaban,August,21
+رمضان,Ramadan,September,19
+شوال,Shawal,October,19
+ذو القعدة,Zul Qe'da,November,17
+ذو الحجة,Zul Hijja,December,17
+2063:
+محرم,Muharram,January,15
+صفر,Saffar,February,14
+ربيع أول,Rabe' Awal,March,15
+ربيع ثاني,Rabe' Thani,April,14
+جمادى أول,Jumada Awal,May,13
+جمادى ثاني,Jumada Thani,June,12
+رجب,Rajab,July,11
+شعبان,Shaban,August,10
+رمضان,Ramadan,September,8
+شوال,Shawal,October,8
+ذو القعدة,Zul Qe'da,November,7
+ذو الحجة,Zul Hijja,December,6
+2064:
+محرم,Muharram,January,5
+صفر,Saffar,February,4
+ربيع أول,Rabe' Awal,March,4
+ربيع ثاني,Rabe' Thani,April,2
+الشهر الحرام,Alshahr Alharam,May,2
+جمادى أول,Jumada Awal,May,31
+جمادى ثاني,Jumada Thani,June,29
+رجب,Rajab,July,29
+شعبان,Shaban,August,28
+رمضان,Ramadan,September,26
+شوال,Shawal,October,26
+ذو القعدة,Zul Qe'da,November,25
+ذو الحجة,Zul Hijja,December,24
+2065:
+محرم,Muharram,January,23
+صفر,Saffar,February,22
+ربيع أول,Rabe' Awal,March,23
+ربيع ثاني,Rabe' Thani,April,21
+جمادى أول,Jumada Awal,May,21
+جمادى ثاني,Jumada Thani,June,19
+رجب,Rajab,July,18
+شعبان,Shaban,August,17
+رمضان,Ramadan,September,15
+شوال,Shawal,October,15
+ذو القعدة,Zul Qe'da,November,14
+ذو الحجة,Zul Hijja,December,13
+2066:
+محرم,Muharram,January,12
+صفر,Saffar,February,11
+ربيع أول,Rabe' Awal,March,13
+ربيع ثاني,Rabe' Thani,April,11
+جمادى أول,Jumada Awal,May,10
+جمادى ثاني,Jumada Thani,June,9
+رجب,Rajab,July,8
+شعبان,Shaban,August,6
+رمضان,Ramadan,September,5
+شوال,Shawal,October,4
+ذو القعدة,Zul Qe'da,November,3
+ذو الحجة,Zul Hijja,December,2
+2067:
+الشهر الحرام,Alshahr Alharam,January,1
+محرم,Muharram,January,31
+صفر,Saffar,March,2
+ربيع أول,Rabe' Awal,March,31
+ربيع ثاني,Rabe' Thani,April,30
+جمادى أول,Jumada Awal,May,29
+جمادى ثاني,Jumada Thani,June,28
+رجب,Rajab,July,27
+شعبان,Shaban,August,24
+رمضان,Ramadan,September,24
+شوال,Shawal,October,23
+ذو القعدة,Zul Qe'da,November,22
+ذو الحجة,Zul Hijja,December,21
+2068:
+محرم,Muharram,January,20
+صفر,Saffar,February,19
+ربيع أول,Rabe' Awal,March,20
+ربيع ثاني,Rabe' Thani,April,18
+جمادى أول,Jumada Awal,May,18
+جمادى ثاني,Jumada Thani,June,16
+رجب,Rajab,July,16
+شعبان,Shaban,August,14
+رمضان,Ramadan,September,12
+شوال,Shawal,October,12
+ذو القعدة,Zul Qe'da,November,10
+ذو الحجة,Zul Hijja,December,10
+2069:
+محرم,Muharram,January,8
+صفر,Saffar,February,7
+ربيع أول,Rabe' Awal,March,9
+ربيع ثاني,Rabe' Thani,April,7
+جمادى أول,Jumada Awal,May,7
+جمادى ثاني,Jumada Thani,June,6
+رجب,Rajab,July,5
+شعبان,Shaban,August,4
+رمضان,Ramadan,September,2
+شوال,Shawal,October,1
+ذو القعدة,Zul Qe'da,October,31
+ذو الحجة,Zul Hijja,November,29
+الشهر الحرام,Alshahr Alharam,December,29
+2070:
+محرم,Muharram,January,27
+صفر,Saffar,February,26
+ربيع أول,Rabe' Awal,March,27
+ربيع ثاني,Rabe' Thani,April,26
+جمادى أول,Jumada Awal,May,26
+جمادى ثاني,Jumada Thani,June,24
+رجب,Rajab,July,24
+شعبان,Shaban,August,22
+رمضان,Ramadan,September,21
+شوال,Shawal,October,20
+ذو القعدة,Zul Qe'da,November,19
+ذو الحجة,Zul Hijja,December,18

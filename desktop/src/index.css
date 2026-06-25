@@ -1,0 +1,93 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-bg: 255 247 237;
+    --color-surface: 255 255 255;
+    --color-border: 231 229 228;
+    --color-text: 28 25 23;
+    --color-text-secondary: 120 113 108;
+    --color-primary: 217 119 6;
+    --color-primary-light: 245 158 11;
+    --color-accent: 234 179 8;
+  }
+  .dark {
+    --color-bg: 12 10 9;
+    --color-surface: 28 25 23;
+    --color-border: 68 64 60;
+    --color-text: 245 245 244;
+    --color-text-secondary: 168 162 158;
+    --color-primary: 245 158 11;
+    --color-primary-light: 217 119 6;
+    --color-accent: 250 204 21;
+  }
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgb(var(--color-primary) / 0.3) transparent;
+}
+
+html { scroll-behavior: smooth; }
+
+.calendar-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+}
+
+.week-header {
+  @apply text-xs font-semibold uppercase tracking-wider py-2 text-center;
+}
+
+.calendar-cell {
+  @apply aspect-square flex items-center justify-center text-sm rounded-lg transition-all duration-150 cursor-pointer;
+}
+
+.calendar-cell:hover {
+  @apply bg-amber-100 dark:bg-amber-900/30;
+}
+
+.calendar-cell.today {
+  @apply bg-amber-500 text-white font-bold shadow-lg shadow-amber-500/25;
+}
+
+.calendar-cell.other-month {
+  @apply text-gray-300 dark:text-gray-600;
+}
+
+.calendar-cell.has-event {
+  @apply ring-2 ring-amber-400 dark:ring-amber-500;
+}
+
+.view-transition {
+  @apply transition-all duration-300 ease-in-out;
+}
+
+.card {
+  @apply bg-white dark:bg-stone-800 rounded-xl shadow-lg border border-stone-200 dark:border-stone-700 overflow-hidden;
+}
+
+.card-header {
+  @apply px-6 py-4 border-b border-stone-200 dark:border-stone-700;
+}
+
+.ashar-indicator {
+  @apply inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-xs font-semibold;
+  background: linear-gradient(135deg, #f59e0b, #d97706);
+  color: white;
+}
+
+.arabic-text {
+  font-family: 'Noto Naskh Arabic', serif;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.fade-in {
+  animation: fadeIn 0.2s ease-out;
+}
