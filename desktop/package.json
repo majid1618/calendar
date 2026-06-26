@@ -3,11 +3,10 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "homepage": "https://majid1618.github.io/calendar",
   "scripts": {
-    "homepage": "https://majid1618.github.io/calendar",
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist" 
   },
   "dependencies": {
     "react": "^18.3.1",
