@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy for Edergawi Calendar</title>
+</head>
+<body>
+
+    <h1>Privacy Policy for Edergawi Calendar</h1>
+
+    <div>
+        <p><strong>Last Updated:</strong> June 27, 2026</p>
+        <p><strong>Application Name:</strong> Edergawi Calendar</p>
+        <p><strong>Package Name:</strong> com.majid.edergawi</p>
+        <p><strong>Developer:</strong> Majid Ramli</p>
+    </div>
+
+    <p>
+        This Privacy Policy applies to the Android application
+        <strong>Edergawi Calendar</strong> (Package Name:
+        <strong>com.majid.edergawi</strong>), developed and published by
+        <strong>Majid Ramli</strong>.
+    </p>
+
+    <p>
+        Edergawi Calendar is a utility and productivity application designed to help users organize, view, and manage their schedules. We respect your privacy and are committed to protecting your personal information.
+    </p>
+
+    <h2>Information Collection and Use</h2>
+
+    <p>
+        Edergawi Calendar does <strong>not collect, store, process, transmit, sell, rent, or share personal information</strong>.
+    </p>
+
+    <p>
+        Any events, schedules, dates, or notes entered into the application are stored and processed locally on your device. No user account registration is required, and no calendar data is sent to the developer or any external server.
+    </p>
+
+    <h2>Data Sharing</h2>
+
+    <p>
+        Edergawi Calendar does not automatically share any user information or calendar data with third parties. 
+    </p>
+
+    <p>
+        If you intentionally choose to use your device's built-in sharing features to export an event or share a schedule entry, only the specific information you select will be shared. Such actions are entirely controlled and initiated by you.
+    </p>
+
+    <h2>Data Storage</h2>
+
+    <p>
+        This app does not operate backend servers and does not store user data remotely. All calendar configurations, events, and schedules remain directly on your local device storage and are completely inaccessible to the developer.
+    </p>
+
+    <h2>Third-Party Services</h2>
+
+    <p>
+        This app does not integrate or use:
+    </p>
+
+    <ul>
+        <li>Analytics services</li>
+        <li>Advertising networks</li>
+        <li>Tracking technologies</li>
+        <li>User profiling services</li>
+        <li>External data collection services</li>
+    </ul>
+
+    <h2>Children's Privacy</h2>
+
+    <p>
+        This app does not knowingly collect personal information from children or users of any age, as it features no data collection capabilities.
+    </p>
+
+    <h2>Security</h2>
+
+    <p>
+        Because this app does not collect, transmit, or handle user data over the internet, no personal information is vulnerable on developer-controlled systems. Your data stays securely within your device's operating system environment.
+    </p>
+
+    <h2>Changes to This Privacy Policy</h2>
+
+    <p>
+        This Privacy Policy may be updated from time to time. Any changes will be posted on this page, and the "Last Updated" date will be revised accordingly.
+    </p>
+
+    <h2>Contact Information</h2>
+
+    <p>
+        If you have questions regarding this Privacy Policy or the application, please contact:
+    </p>
+
+    <p>
+        <strong>Majid Ramli</strong><br>
+        Email: majid1618@gmail.com<br>
+        Phone: +971507279290
+    </p>
+
+    <footer>
+        By using Edergawi Calendar, you acknowledge and agree to this Privacy Policy.
+    </footer>
+
+</body>
+</html>
